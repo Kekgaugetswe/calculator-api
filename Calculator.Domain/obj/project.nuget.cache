@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2GFU2guOwKk5dDSZhyAJsZgikP1VIpogirvQ+04lO+Yml1bOWSbJx//K4ZLtSom/RMd/cMbDd0NusjyI+3M9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kekgaugetswe\\Documents\\Scenivision\\CalculatorAPI\\Calculator.Domain\\Calculator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
